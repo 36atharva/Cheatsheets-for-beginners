@@ -2,3 +2,5 @@
 1. Git commands cheatsheet.
 2. VS Code shortcuts cheatsheet
 3. CSS Selectors cheatsheet
+4. CSS Combinators cheatsheet
+5. CSS Positioning Cheatsheet
