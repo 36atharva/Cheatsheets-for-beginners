@@ -4,3 +4,4 @@
 3. CSS Selectors cheatsheet
 4. CSS Combinators cheatsheet
 5. CSS Positioning Cheatsheet
+6. CSS Box Model Cheatsheet (Visual)
